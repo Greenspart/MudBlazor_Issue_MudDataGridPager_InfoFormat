@@ -1,0 +1,2 @@
+# MudBlazor_Issue_MudDataGridPager_InfoFormat
+Custom Translation Interceptor : MudDataGridPager_InfoFormat placeholder values not working
